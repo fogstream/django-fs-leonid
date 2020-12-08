@@ -1,7 +1,7 @@
 import setuptools
 
 
-setup(
+setuptools.setup(
     name='django-fs-leonid',
     version='1.0.0',
     packages=['fs_leonid'],
